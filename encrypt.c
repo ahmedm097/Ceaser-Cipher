@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-//By: Mohammed Ahmed 214396428
 
 int main(int argc, char *argv[])
 
